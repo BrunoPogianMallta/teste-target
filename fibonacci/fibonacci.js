@@ -16,9 +16,9 @@ function checkFibo(numero){
       }
       
       if (fib === numero) {
-        return alert(`${numero} pertence à sequência de Fibonacci.`);
+        return alert(`${numero} Pertence à sequência de Fibonacci.`);
       } else {
-        return alert(`${numero} não pertence à sequência de Fibonacci.`);
+        return alert(`${numero} Não pertence à sequência de Fibonacci.`);
       }
 }
 
